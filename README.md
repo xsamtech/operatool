@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>-->
 </p>
 
-## A propos d'Operatool
+## A propos
 
 Operatool est un outil permettant d'une part de gérer le fonctionnement des employés d'une entreprise, et d'autre part d'échanger entre membres d'équipe dans une entreprise. De ce fait, Operatool permet de :
 
@@ -19,7 +19,7 @@ Operatool est un outil permettant d'une part de gérer le fonctionnement des emp
 
 Operatool est accessible à tout le public ; mais, pour avoir accès à toutes les fonctionnalités, il y a des conditions à remplir.
 
-## Accéder aux fonctionnalités d'Operatool
+## Comment accéder aux fonctionnalités
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
