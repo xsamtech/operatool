@@ -9,7 +9,7 @@
 
 ## A propos d'Operatool
 
-Operatool est un outil permettant d'une part de gérer le fonctionnement des employés d'une entreprise, et d'autre part d'échanger entre membres d'équipe dans une entreprise. De ce fait Operatool permet de :
+Operatool est un outil permettant d'une part de gérer le fonctionnement des employés d'une entreprise, et d'autre part d'échanger entre membres d'équipe dans une entreprise. De ce fait, Operatool permet de :
 
 - gérer les présences des employés ;
 - gérer les paiements des salaires ;
