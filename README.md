@@ -17,7 +17,7 @@ Operatool est un outil permettant d'une part de gérer le fonctionnement des emp
 - évaluer l'efficacité des employés ;
 - échanger entre employés d'une même entreprise.
 
-Operatool est accessible à tout le public ; mais, pour avoir accès à toutes les fonctionnalités, il y a des conditions à remplir.
+Operatool est accessible à tout le public ; mais, pour bénéficier pleinement de chaque fonctionnalité, il y a des conditions à remplir.
 
 ## L'accès aux fonctionnalités
 
