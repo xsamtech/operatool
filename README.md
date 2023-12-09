@@ -19,7 +19,7 @@ Operatool est un outil permettant d'une part de gérer le fonctionnement des emp
 
 Operatool est accessible à tout le public ; mais, pour avoir accès à toutes les fonctionnalités, il y a des conditions à remplir.
 
-## Comment accéder aux fonctionnalités
+## L'accès aux fonctionnalités
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
